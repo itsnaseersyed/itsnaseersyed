@@ -1,5 +1,5 @@
 ## Hey, I'm Naseer 👋
-<br><br>I learn by building and I build by teaching — working mainly with web technologies, AI, and real-world applications.  <br>I share my journey through projects, experiments, and products focused on education, business, and automation.  <br>Curious about how AI and software can move from simple tools to practical systems that solve everyday problems for people and small businesses.<br>💡 Not just coding — building platforms, tools, and ideas that actually get used.
+<br>I learn by building and I build by teaching — working mainly with web technologies, AI, and real-world applications.  <br>I share my journey through projects, experiments, and products focused on education, business, and automation.  <br>Curious about how AI and software can move from simple tools to practical systems that solve everyday problems for people and small businesses.<br>💡 Not just coding — building platforms, tools, and ideas that actually get used.
 
 
 ## 🌐 Socials:
